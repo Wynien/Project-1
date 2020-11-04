@@ -1,0 +1,51 @@
+body {
+    background-color: rgba(54, 37, 66, 0.616);
+    background-image: url(images/background-retro-bar.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+header {
+    background-color: rgba(46, 46, 97, 0.205);
+    height: 50px;
+    text-align: center;
+}
+section {
+    height: 300px;
+    text-align: center;
+}
+main {
+    height: 40px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+footer {
+    background-color:greenyellow;
+    height: 100px;
+}
+
+h1 {
+    font-size: 84pxc;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
